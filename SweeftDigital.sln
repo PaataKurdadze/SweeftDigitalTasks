@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SweeftDigital", "SweeftDigital\SweeftDigital.csproj", "{4728CD6C-3558-4B89-9DAC-57521BF459EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task_7", "Task_7", "{CDB9BE76-FCAB-45D0-956A-F54BD4521FF9}"
+	ProjectSection(SolutionItems) = preProject
+		Task_7.sql = Task_7.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4728CD6C-3558-4B89-9DAC-57521BF459EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4728CD6C-3558-4B89-9DAC-57521BF459EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4728CD6C-3558-4B89-9DAC-57521BF459EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4728CD6C-3558-4B89-9DAC-57521BF459EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3EF668-4F17-4455-8CAD-5EE8E3D8FD14}
+	EndGlobalSection
+EndGlobal
